@@ -1,0 +1,15 @@
+# Compiled sources #
+*.class
+*.*~
+
+# Package Files #
+*.jar
+
+# Log files #
+*.log
+
+# Ignore paths #
+/nbproject/private/
+/build/
+/dist/
+/report
